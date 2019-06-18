@@ -1,6 +1,6 @@
 package com.david;
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
 	// write your code here
@@ -28,6 +28,14 @@ public class Main {
         System.out.println("long value myLong is " + myLong);
         System.out.println("asdf value is " + asdf);
         System.out.println("double value is " + asasas);
+
+        /*
+        int is 32 bit (4 bytes),
+        float is samely 32bits.
+        double is 64bits (8 bytes.)
+
+         */
+
 
     }
 }
