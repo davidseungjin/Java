@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ccc0ec-091e-49c0-a888-fd96d7cc584b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUL18.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JUL7_Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUL7_Switch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,8 +50,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,7 +107,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.17844138" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.18499635" />
       <window_info id="Structure" order="6" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
