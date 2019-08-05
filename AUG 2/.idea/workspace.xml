@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20ccc0ec-091e-49c0-a888-fd96d7cc584b" name="Default Changelist" comment="" />
+    <list default="true" id="0d761872-b7e5-4262-98a8-9b98553ac335" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUL18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUL18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -46,23 +50,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JUL18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JUL18" type="462c0819:PsiDirectoryNode" />
+              <item name="AUG 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AUG 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AUG 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AUG 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563507065838" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,7 +85,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.david.Main" />
-      <module name="JUL18" />
+      <module name="AUG 2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -87,34 +93,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="20ccc0ec-091e-49c0-a888-fd96d7cc584b" name="Default Changelist" comment="" />
-      <created>1563506818904</created>
+      <changelist id="0d761872-b7e5-4262-98a8-9b98553ac335" name="Default Changelist" comment="" />
+      <created>1564787271338</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563506818904</updated>
+      <updated>1564787271338</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.21194464" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.17407137" />
       <window_info id="Structure" order="6" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -122,7 +124,7 @@
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32880434" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.21059783" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.21059783" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -134,14 +136,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.2949745" />
+      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.2949745" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
