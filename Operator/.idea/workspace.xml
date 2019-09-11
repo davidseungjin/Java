@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99db50bb-678e-48dd-b798-bc17e607dddc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SEP11/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AUG 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AUG 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP11_3/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP11_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP11_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP11_2/out/production/SEP11_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP11_2/out/production/SEP11_2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP11_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP11_2/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,7 +104,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="828" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
