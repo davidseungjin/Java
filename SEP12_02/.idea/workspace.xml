@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0243b770-04b3-4e4c-aa2e-b828d3b9c334" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/david/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SEP12_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP12_01/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0243b770-04b3-4e4c-aa2e-b828d3b9c334" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -29,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/david/Account.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -95,7 +90,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568319324457" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568319325968" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,21 +163,21 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.36416605" />
+      <window_info anchor="right" id="Run" order="8" weight="0.36416605" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/david/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
