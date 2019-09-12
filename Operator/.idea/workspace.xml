@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99db50bb-678e-48dd-b798-bc17e607dddc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SEP12_04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_04/src/com/david/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_06/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_06/src/com/david/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP12_08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP12_08/src/com/david/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP12_08/src/com/david/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SEP12_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP12_03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP12_07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP12_07/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,6 +104,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
