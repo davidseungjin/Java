@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99db50bb-678e-48dd-b798-bc17e607dddc" name="Default Changelist" comment="">
+    <list default="true" id="6f4d3fac-9d14-43f4-a396-75e14b76f377" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../SEP12_04/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SEP12_04/src/com/david/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_06/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_06/src/com/david/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP12_07/src/com/david/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SEP12_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP12_03/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -39,22 +30,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/david/Main.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="25" />
     <option name="y" value="23" />
     <option name="width" value="1415" />
     <option name="height" value="828" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -64,9 +46,6 @@
       <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560881191854" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,7 +62,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.david.Main" />
-      <module name="Operator" />
+      <module name="SEP21_05" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -91,22 +70,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99db50bb-678e-48dd-b798-bc17e607dddc" name="Default Changelist" comment="" />
-      <created>1560880003634</created>
+      <changelist id="6f4d3fac-9d14-43f4-a396-75e14b76f377" name="Default Changelist" comment="" />
+      <created>1568325058296</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560880003634</updated>
+      <updated>1568325058296</updated>
     </task>
     <servers />
   </component>
@@ -118,7 +92,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.48215586" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.17407137" />
       <window_info id="Structure" order="6" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -126,7 +100,7 @@
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32880434" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.21059783" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.21059783" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -138,14 +112,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.2949745" />
+      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.2949745" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
