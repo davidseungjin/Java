@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37157da9-e182-47d2-8072-078c610fe862" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/david/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/david/Main.java" afterDir="false" />
+    <list default="true" id="f9e890f3-5b73-44cc-a62d-c5790829b871" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../098_SEP14_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../098_SEP14_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../098_SEP14_01/src/com/david/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../098_SEP14_01/src/com/david/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SEP12_06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP12_06/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="480">
+              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -42,21 +43,29 @@
     <option name="width" value="1415" />
     <option name="height" value="828" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="098_SEP14_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="098_SEP14_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568474261542" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568475056247" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,7 +82,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.david.Main" />
-      <module name="098_SEP14_01" />
+      <module name="098_SEP14_02" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -92,17 +101,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37157da9-e182-47d2-8072-078c610fe862" name="Default Changelist" comment="" />
-      <created>1568472475397</created>
+      <changelist id="f9e890f3-5b73-44cc-a62d-c5790829b871" name="Default Changelist" comment="" />
+      <created>1568474646086</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568472475397</updated>
+      <updated>1568474646086</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="828" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -135,8 +143,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="480">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
         </state>
       </provider>
     </entry>
