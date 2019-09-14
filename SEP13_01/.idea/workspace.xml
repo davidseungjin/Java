@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae13cf5-70f2-43ce-b83b-a846ca859a0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AWP13_02/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AWP13_02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/src/com/david/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/src/com/david/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/src/com/david/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/src/com/david/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/src/com/david/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/src/com/david/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/src/com/david/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_01/src/com/david/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_02/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_02/src/com/david/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_03/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEP13_03/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="de97c499-2eb1-4220-b92b-a8f4a24b3caa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/david/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/david/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/david/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/david/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/david/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/david/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/david/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/david/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP12_06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP12_06/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,44 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/david/Motherboard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/david/Monitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/david/Case.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/david/Dimensions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="360">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -79,8 +35,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/david/PC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <state relative-caret-position="285">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/david/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/david/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/david/Motherboard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/david/Monitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/david/Case.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/david/Dimensions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -88,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/david/Resolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -109,13 +119,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/david/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/com/david/Car.java" />
         <option value="$PROJECT_DIR$/src/com/david/Motherboard.java" />
         <option value="$PROJECT_DIR$/src/com/david/Monitor.java" />
         <option value="$PROJECT_DIR$/src/com/david/Resolution.java" />
         <option value="$PROJECT_DIR$/src/com/david/Case.java" />
         <option value="$PROJECT_DIR$/src/com/david/Dimensions.java" />
-        <option value="$PROJECT_DIR$/src/com/david/Main.java" />
         <option value="$PROJECT_DIR$/src/com/david/PC.java" />
+        <option value="$PROJECT_DIR$/src/com/david/Main.java" />
       </list>
     </option>
   </component>
@@ -133,23 +145,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SEP12_06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SEP12_06" type="462c0819:PsiDirectoryNode" />
+              <item name="SEP13_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEP13_01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SEP12_06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SEP12_06" type="462c0819:PsiDirectoryNode" />
+              <item name="SEP13_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEP13_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SEP12_06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SEP12_06" type="462c0819:PsiDirectoryNode" />
+              <item name="SEP13_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEP13_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="david" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -160,7 +172,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568348750510" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568440735800" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,7 +189,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.david.Main" />
-      <module name="SEP12_06" />
+      <module name="SEP13_01" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -196,23 +208,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cae13cf5-70f2-43ce-b83b-a846ca859a0a" name="Default Changelist" comment="" />
-      <created>1568326523972</created>
+      <changelist id="de97c499-2eb1-4220-b92b-a8f4a24b3caa" name="Default Changelist" comment="" />
+      <created>1568439403718</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568326523972</updated>
+      <updated>1568439403718</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.14566642" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.17407137" />
       <window_info id="Structure" order="6" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -232,57 +245,70 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.27385288" />
+      <window_info anchor="right" id="Run" order="8" weight="0.2949745" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Motherboard.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/david/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/david/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/david/Motherboard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/david/Motherboard.java">
+    <entry file="file://$PROJECT_DIR$/src/com/david/Resolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/david/Monitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/david/Case.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/david/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/david/Dimensions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/david/PC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="285">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/david/Resolution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="360">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
