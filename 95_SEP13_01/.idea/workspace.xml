@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c874c64-d014-4a50-b552-a1ebdd157d52" name="Default Changelist" comment="">
+    <list default="true" id="2545f6ce-6032-4df5-8e3c-e5dc3fd614a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../094_SEP14_01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../094_SEP14_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../094_SEP14_01/094_SEP14_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP14_01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP14_01/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SEP12_06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP12_06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP13_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP13_03/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,29 +24,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/david/Printer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="101">
+              <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -47,7 +38,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Printer.java" />
+        <option value="$PROJECT_DIR$/src/com/david/Holden.java" />
+        <option value="$PROJECT_DIR$/src/com/david/Ford.java" />
         <option value="$PROJECT_DIR$/src/com/david/Main.java" />
       </list>
     </option>
@@ -72,17 +64,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="SEP13_03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SEP13_03" type="462c0819:PsiDirectoryNode" />
+              <item name="95_SEP13_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="95_SEP13_01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SEP13_03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SEP13_03" type="462c0819:PsiDirectoryNode" />
+              <item name="95_SEP13_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="95_SEP13_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SEP13_03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SEP13_03" type="462c0819:PsiDirectoryNode" />
+              <item name="95_SEP13_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="95_SEP13_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="david" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -93,7 +85,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568443775147" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568472333997" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.david" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,7 +107,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.david.Main" />
-      <module name="SEP13_03" />
+      <module name="95_SEP13_01" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -129,11 +126,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c874c64-d014-4a50-b552-a1ebdd157d52" name="Default Changelist" comment="" />
-      <created>1568443117581</created>
+      <changelist id="2545f6ce-6032-4df5-8e3c-e5dc3fd614a8" name="Default Changelist" comment="" />
+      <created>1568471022738</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568443117581</updated>
+      <updated>1568471022738</updated>
     </task>
     <servers />
   </component>
@@ -146,7 +143,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.17625637" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.17407137" />
       <window_info id="Structure" order="6" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -170,17 +167,20 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/david/Holden.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="45">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/david/Printer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/david/Ford.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/david/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="101">
+          <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
         </state>
       </provider>
     </entry>
