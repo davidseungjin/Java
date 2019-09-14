@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ecec6ac-f085-4b6b-9960-f7059ee46d46" name="Default Changelist" comment="" />
+    <list default="true" id="2ecec6ac-f085-4b6b-9960-f7059ee46d46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP12_08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP12_08/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/david/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -67,7 +70,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,6 +92,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,8 +149,8 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5027174" side_tool="true" weight="0.17407137" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4972826" visible="true" weight="0.17407137" />
-      <window_info id="Structure" order="6" sideWeight="0.5027174" side_tool="true" visible="true" weight="0.17407137" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4959239" visible="true" weight="0.17625637" />
+      <window_info id="Structure" order="6" sideWeight="0.50407606" side_tool="true" visible="true" weight="0.17625637" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32880434" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -179,8 +182,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/david/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

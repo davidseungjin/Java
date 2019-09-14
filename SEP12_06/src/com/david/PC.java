@@ -11,8 +11,6 @@ public class PC {
         this.motherboard = motherboard;
     }
 
-
-
     public Case getTheCase() {
         return theCase;
     }
