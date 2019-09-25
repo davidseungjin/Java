@@ -137,6 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,8 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +217,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.1653314" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4979757" visible="true" weight="0.16970138" />
       <window_info id="Structure" order="6" sideWeight="0.5020243" side_tool="true" weight="0.17188638" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
